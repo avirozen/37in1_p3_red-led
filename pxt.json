@@ -1,5 +1,5 @@
 {
-    "name": "37in1_P3_Red LED_Breath_P2ledBlink",
+    "name": "37in1_P3_Red LED_Breath_P2ledBlink__Button",
     "description": "",
     "dependencies": {
         "core": "*",

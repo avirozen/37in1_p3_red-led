@@ -1,5 +1,9 @@
 let val = 0
 led.enable(false)
+basic.clearScreen()
+basic.forever(function () {
+	
+})
 basic.forever(function () {
     pins.digitalWritePin(DigitalPin.P1, 1)
     basic.pause(1000)
